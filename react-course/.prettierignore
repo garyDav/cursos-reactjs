@@ -1,0 +1,4 @@
+dist
+build
+mongo_data
+package-lock.json
